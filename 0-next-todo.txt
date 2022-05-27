@@ -1,5 +1,4 @@
-326. Power of Three
-342. Power of Four
+
 461. Hamming Distance
 287. Find the Duplicate Number
 2206. Divide Array Into Equal Pairs
