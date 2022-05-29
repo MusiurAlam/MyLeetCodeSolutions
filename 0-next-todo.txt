@@ -1,6 +1,4 @@
 812. Largest Triangle Area
 448. Find All Numbers Disappeared in an Array
 867. Transpose Matrix
-485. Max Consecutive Ones
 896. Monotonic Array
-1002. Find Common Characters
