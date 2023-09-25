@@ -1,3 +1,4 @@
- < arr.length; i++){
-    //     arr[i] = arr[i].reverse();
-    // }
+k--;
+        // if(k === 0){
+        //     break;
+        // }
